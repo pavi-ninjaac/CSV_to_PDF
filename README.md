@@ -18,14 +18,20 @@ Wkhtmltopdf is an open source software that need to be installed and added to sy
 
 - 1)Go to wkhtmltopdf.org and click download on the top
 
+![Screenshot (129)](https://user-images.githubusercontent.com/51699297/86623199-c4958680-bfde-11ea-8ef5-e05c29eefb62.png)
 - 2)	Based on your OS download the installer 
 - 3)	Setting system variable for window
   - Go to this pc properties
   - click” advanced system settings”
+![Screenshot (130)](https://user-images.githubusercontent.com/51699297/86623217-ccedc180-bfde-11ea-9ff4-5a03ed58015f.png)
   - click “Environment Variable”
+![Screenshot (132)](https://user-images.githubusercontent.com/51699297/86623223-d119df00-bfde-11ea-9292-8497b3521e62.png)  
   - Copy the “bin folder” path of wkhtmltopdf 
+![Screenshot (141)](https://user-images.githubusercontent.com/51699297/86623259-e42caf00-bfde-11ea-938c-68c6c7131a4d.png)
   - select the “path system variable” and click on edit
+![Screenshot (140)](https://user-images.githubusercontent.com/51699297/86623246-dd9e3780-bfde-11ea-9b3f-513b07338e19.png)
   - at the end of the path variables add “;” for separation and then paste the “bin folder path”
+![Screenshot (139)](https://user-images.githubusercontent.com/51699297/86623234-d7a85680-bfde-11ea-8416-83b4cc05d400.png)  
   -click ok
 
 - 4) after this you can use the wkhtmltopdf software any where from the sytem
